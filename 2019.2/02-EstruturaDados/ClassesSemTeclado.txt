@@ -1,0 +1,7 @@
+
+	scanner leitor = new scanner(System.in);
+	int x = leitor.nextInt(); lendo inteiro
+	double y = leitor.nextdouble(); //lendo double
+	string z = leitor.next() ; lendo string
+
+	leitor.close()
